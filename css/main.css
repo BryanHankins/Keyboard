@@ -121,37 +121,37 @@ h1 {
 
 .Rain1 {
   color: orange;
-  animation: colorRotate1 1s linear 0s infinite alternate;
+  animation: colorRotate1 1s linear 0s infinite;
   animation-delay: -1s; }
 
 .Rain2 {
   color: yellow;
-  animation: colorRotate2 1s linear 0s infinite alternate;
+  animation: colorRotate2 1s linear 0s infinite;
   animation-delay: -1s; }
 
 .Rain3 {
   color: green;
-  animation: colorRotate3 1s linear 0s infinite alternate;
+  animation: colorRotate3 1s linear 0s infinite;
   animation-delay: -1s; }
 
 .Rain4 {
   color: blue;
-  animation: colorRotate4 1s linear 0s infinite alternate;
+  animation: colorRotate4 1s linear 0s infinite;
   animation-delay: -1s; }
 
 .Rain5 {
   color: indigo;
-  animation: colorRotate5 1s linear 0s infinite alternate;
+  animation: colorRotate5 1s linear 0s infinite;
   animation-delay: -1s; }
 
 .Rain6 {
   color: violet;
-  animation: colorRotate6 1s linear 0s infinite alternate;
+  animation: colorRotate6 1s linear 0s infinite;
   animation-delay: -1s; }
 
 .Rain7 {
   color: red;
-  animation: colorRotate7 1s linear 0s infinite alternate;
+  animation: colorRotate7 1s linear 0s infinite;
   animation-delay: -1s; }
 
 @keyframes colorRotate1 {
